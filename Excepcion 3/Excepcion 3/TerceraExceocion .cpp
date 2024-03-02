@@ -27,7 +27,7 @@ const char* ErroMath::porque() const throw()
 		break;
 	default:return "";
 	}
-	return ;
+
 }
 
 //----------------------------------------------------
